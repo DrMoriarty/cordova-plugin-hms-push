@@ -1,5 +1,5 @@
 {
-    "name": "@hmscore/cordova-plugin-hms-push",
+    "name": "cordova-plugin-hms-push",
     "description": "Cordova HMS Push Plugin",
     "version": "6.3.0-304",
     "main": "./www/HmsPush.js",
